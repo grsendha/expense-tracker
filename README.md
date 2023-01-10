@@ -31,8 +31,8 @@ Step 2:
 
 |                                      |                                      |
 | ------------------------------------ | ------------------------------------ |
-| <img src="assets/images/1.jpg"  width="300"/> | <img src="assets/images/2.jpg"  width="300"/> |
-| <img src="assets/images/3.jpg" width="300"/>  | 
+| <img src="assets/image/1.jpg"  width="300"/>| <img src="assets/image/2.jpg"  width="300"/>|
+| <img src="assets/image/3.jpg"  width="300"/>| 
 
 
 
