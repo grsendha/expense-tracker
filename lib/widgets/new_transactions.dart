@@ -78,7 +78,7 @@ class _NewTransactionState extends State<NewTransaction> {
                             : 'Picked Date: ${DateFormat.yMMMd().format(selectedDate)}',
                       ),
                     ),
-                    FlatButton(
+                    MaterialButton(
                       textColor: Theme.of(context).primaryColor,
                       child: Text(
                         'Choose Date',
@@ -88,7 +88,7 @@ class _NewTransactionState extends State<NewTransaction> {
                   ],
                 ),
               ),
-              RaisedButton(
+              MaterialButton(
                 child: Text('Add Transaction'),
                 color: Theme.of(context).primaryColor,
                 textColor: Theme.of(context).textTheme.button.color,
