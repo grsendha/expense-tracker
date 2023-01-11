@@ -11,7 +11,7 @@ To install this project run
 
 Step 1: 
 ```bash
-  git clone https://github.com/grsendha/expense-tracker.git
+  git clone https://github.com/grsendha/expense-tracker
 ```
 Step 2:
 ```bash
